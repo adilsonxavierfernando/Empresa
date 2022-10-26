@@ -27,7 +27,7 @@ function openWindow(janela){
                         window.location.assign('./../Pages/Galeria/Galeria.html')
                         break
                     case 'contact':
-                        window.location.assign('./../Pages/Contactos/Contactos.html')
+                        window.location.assign('./../../Pages/Contactos/Contactos.html')
                         break
             
     }
